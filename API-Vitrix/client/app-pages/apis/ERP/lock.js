@@ -1,0 +1,1 @@
+const statusPag = 1
